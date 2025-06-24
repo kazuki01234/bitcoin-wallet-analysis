@@ -25,7 +25,6 @@ This is a sample project demonstrating on-chain analysis of a Bitcoin wallet usi
 
 - `transactions.csv`: Cleaned and structured transaction data
 - `wallet-analysis.pdf`: Original wallet statement from Blockchair
-- `wallet_analysis_google_sheet`: [View Spreadsheet](<INSERT_YOUR_SPREADSHEET_LINK_HERE>)
 
 ## 💡 Key Observations
 
